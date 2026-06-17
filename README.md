@@ -2,4 +2,5 @@
 Built Pong in MSAccess bc y not?
 
 Someone employ me before I build something even more unhinged 😭
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/80b5cced-a411-4bd3-a8f2-86cc9d8e6111" />
+<img width="1280" height="720" alt="Access Pong" src="https://github.com/user-attachments/assets/ae9166ce-4891-4b45-9ba9-50fb64cdf0d4" />
+
